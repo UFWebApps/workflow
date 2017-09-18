@@ -49,8 +49,7 @@ Once you've made changes to your code and commited the results, you may want to 
 
 ```
 git push <remote_name> <branch_name>
-```adsadad
-s
+```
 Say your team members have made contributions to the codebase and have pushed those changes to GitHub. In order to get those changes on your local repository, you must **pull** changes from a remote repository using  
 
 ```
