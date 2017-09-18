@@ -5,13 +5,13 @@ This assignment will help in understanding how to use GitHub to collaborate with
   * [Making Commits](#making-commits)
   * [Branching](#branching)
 * [Remote repositories](#remote-repositories)
-* [Forking the repository](#forkingasdsadsadaddaborating-with-github)
+* [Forking the repository](#forking-the-repository)
 * [Assignment](#assignment)
 
   
 ## Common Git Commands
 
-**Git** is the version control software we will be using to keep track of changes made to your web application. There are GUI interfaces available to work with git, but you will benefit greatly as a software developer by learning how to use command line tools to accomplish tasks. These are a few commands that will allow you to assadsadsadsaeffectively use git to version control your project.  
+**Git** is the version control software we will be using to keep track of changes made to your web application. There are GUI interfaces available to work with git, but you will benefit greatly as a software developer by learning how to use command line tools to accomplish tasks. These are a few commands that will allow you to effectively use git to version control your project.  
 
 ### Making Commits
 A "commit" is a record that creates a snapshot of your code, which is added to your repository's history. In order to create this snapshot, you must first *stage* the files you want to include in the snapshot. Once you have staged the files, you must physically create the snapshot within your project's history by making a *commit*.
@@ -58,8 +58,8 @@ git pull <remote_name> <branchsdaddddad_name>
 
 If you have used `git push origin master` or `git pull origin master`, this refers to pushing/pulling changes from a remote repository named *origin* into the *master* branch. 
 
-## Forking the repository asdsadasdasd
-dd
+## Forking the repository
+
 Each team must create changes to their own version of this repository. In order to accomplish this, it is necessary to **fork** the repository. **Forking** creates a copy of the repository on your GitHub account/organization that you can modify through your own commits. In order to accomplish this: 
 
 ![](tutorial_img/fork1.png)
@@ -100,8 +100,8 @@ The **scrum master** ultimately merges the pull request into the master branch. 
 
 You will be demonstrating your knowledge of GitHub workflow and Scrum fundamentals in this assignment. You will be making simple changes to the sample to-do app that was shown in discussions and lecture. The Scrum Master will assign these tickets/tasks to the team. **All** members of the team must complete 1 ticket/task. There may be more tasks than you have group members, in that case it is **fine** to not do a task. Just make sure that every team member does one task.
 
-####Tasks/tickets
-######Accomplish these tasks in whatever way you see fit. No limitatons.
+#### Tasks/tickets
+##### Accomplish these tasks in whatever way you see fit. No limitatons.
 
 1. Change the background color of the to-do app
 2. Give the option to assign a priority to a to-do item  
@@ -115,7 +115,7 @@ You will be demonstrating your knowledge of GitHub workflow and Scrum fundamenta
 6. A button to clear all "completed" tasks   
 
 
-#####In order to complete these tasks, you will need to:
+##### In order to complete these tasks, you will need to:
 
 1. Create a GitHub organization for your team. Fork this repository to that organization. 
 2. You will not need to use Pivotal Tracker to track your tasks/user stories/tickets for this assignment.
